@@ -64,4 +64,4 @@ document.getElementById('cpfForm').addEventListener('submit', function(event) {
     return true; // Retorna true se o CPF é válido
  }
   
- tem menu de contexto
+ 
